@@ -1,0 +1,28 @@
+_repo: The-Story-of-American-HistoryFor-Elementary-Schools_34600
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 34600-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Blaisdell, Albert F. (Albert Franklin)
+    alias: Blaisdell, Albert Franklin
+    birthdate: 1847
+    deathdate: 1927
+    gutenberg_agent_id: '3542'
+    url: http://www.gutenberg.org/2009/agents/3542
+description: ''
+gutenberg_issued: '2010-12-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34600'
+  lccn: '15023163'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- History'
+- !lcc 'E151'
+title: The Story of American History for Elementary Schools
+url: http://www.gutenberg.org/ebooks/34600
